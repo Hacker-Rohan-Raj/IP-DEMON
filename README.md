@@ -8,10 +8,10 @@
 git clone https://github.com/Hacker-Rohan-Raj/IP-DEMON
 ```
 ```
-pip install -r Requirements.txt
-```
-```
 cd IP-DEMON
+```
+```
+pip install -r Requirements.txt
 ```
 ```
 python3 ipdemon.py
